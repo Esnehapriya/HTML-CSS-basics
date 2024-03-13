@@ -1,0 +1,30 @@
+div{
+    background-color: #c89cfe;
+    padding:5px;
+    margin: 5px;
+}
+body{
+    text-align: center;
+    margin: 0px;
+}
+#heading1{
+    color: white;
+
+}
+.list-item{
+    color: white;
+    margin: 10px;
+    display: inline;
+}
+div ul li{
+    display:inline;
+    justify-content: center;
+}
+
+div ul li a{
+    border:1px solid white;
+    border-radius: 5px;
+    color:white;
+    padding:5px;
+    text-decoration: none;
+}
